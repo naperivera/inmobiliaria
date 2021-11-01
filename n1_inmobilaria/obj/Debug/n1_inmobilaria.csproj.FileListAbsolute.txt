@@ -1,0 +1,9 @@
+C:\Users\ASUS-M409DA\source\repos\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csprojAssemblyReference.cache
+C:\Users\ASUS-M409DA\source\repos\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.Properties.Resources.resources
+C:\Users\ASUS-M409DA\source\repos\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csproj.GenerateResource.cache
+C:\Users\ASUS-M409DA\source\repos\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-M409DA\Desktop\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csprojAssemblyReference.cache
+C:\Users\ASUS-M409DA\Desktop\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.Properties.Resources.resources
+C:\Users\ASUS-M409DA\Desktop\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.source.Interfaz.interfaz_inmobiliaria.resources
+C:\Users\ASUS-M409DA\Desktop\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csproj.GenerateResource.cache
+C:\Users\ASUS-M409DA\Desktop\n1_inmobilaria\n1_inmobilaria\obj\Debug\n1_inmobilaria.csproj.CoreCompileInputs.cache
